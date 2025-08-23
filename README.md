@@ -1,2 +1,2 @@
-# postoffice
+# Post office
 SMTP server written in Go
