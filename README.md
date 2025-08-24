@@ -17,7 +17,9 @@ The `sudo` prefix is needed since the server/client interact with the `25` SMTP 
 At this point, the client and the server in the program should begin interacting with one another.
 
 ## References
+
 https://codingchallenges.fyi/challenges/challenge-smtp/
+
 https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol#SMTP_transport_example
 
 ## LICENSE
