@@ -15,3 +15,6 @@ sudo ./main
 
 The `sudo` prefix is needed since the server/client interact with the `25` SMTP port, which requires `root` access.
 At this point, the client and the server in the program should begin interacting with one another.
+
+## LICENSE
+Post office is licensed under the GNU General Public License 3.0. See the [license file](https://github.com/Kingcitaldo125/postoffice#GPL-3.0-1-ov-file) for more details.
