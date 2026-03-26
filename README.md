@@ -13,8 +13,9 @@ and run the program with:
 sudo ./main
 ```
 
-The `sudo` prefix is needed since the server/client interact with the `25` SMTP port, which requires `root` access.
+The `sudo` prefix is needed since the server/client interacts with the `25` SMTP port, which requires `root` access.
 At this point, the client and the server in the program should begin interacting with one another.
+This interaction will run to completion automatically, with some output describing the interaction being shown in the terminal.
 
 ## References
 
